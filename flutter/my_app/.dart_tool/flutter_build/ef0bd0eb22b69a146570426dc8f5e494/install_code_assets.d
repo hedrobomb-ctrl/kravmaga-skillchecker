@@ -1,0 +1,1 @@
+ C:\\Users\\hedro\\flutter\\my_app\\.dart_tool\\flutter_build\\ef0bd0eb22b69a146570426dc8f5e494\\native_assets.json: 
